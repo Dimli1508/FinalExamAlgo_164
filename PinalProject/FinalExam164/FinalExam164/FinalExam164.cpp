@@ -190,7 +190,6 @@ int main() {
     return 0;
 }
 
-
 //2. Single Linked-List
 
 //3. buat node front menjadi last node dan last node menjadi new node jika antriannya kosong
